@@ -51,3 +51,17 @@ OpenZeppelin
 5. Open the REMIX IDE 
  
 7. Then when on the REMIX IDE
+
+8. git clone the KaseiCoin.sol and KaseiCoinCrowdsale.sol file and compile them
+
+
+
+#### Create the KaseiCoin Token Contract
+
+successful compilation of the contract
+
+![KaseiCoinCompilled](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/KasieCoinCompilled.gif)
+
+![KaseiCoinCrowdsaleCompilled](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleCompilled.gif)
+
+
