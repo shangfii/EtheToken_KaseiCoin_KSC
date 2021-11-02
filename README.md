@@ -69,3 +69,12 @@ successful compilation of the Crowdsale contract
 ![KaseiCoinCrowdsaleCompilled](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleCompilled.gif)
 
 
+successful compilation of the Deployer contract
+
+![KaseiCoin Deployed](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/DeployerAdded.gif)
+
+successful compilation of all three contracts 
+
+![KaseiCoin Deployed](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/DeployerAdded.gif)
+
+
