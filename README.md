@@ -13,7 +13,6 @@ Creation of an Ethereum Token called KaseiCoin and Crowdsale
 
 # Evaluation Evidence
 
-# Contributors
 
 # License
 
@@ -54,7 +53,7 @@ OpenZeppelin
 
 8. git clone the KaseiCoin.sol and KaseiCoinCrowdsale.sol file and compile them
 
-
+# Evaluation Evidence
 
 #### Create the KaseiCoin Token Contract
 
@@ -81,7 +80,7 @@ successful compilation of all three contracts
 
 ![](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleDepoyments.gif)
 
-# Buying token
+# Interaction Buying token
 
 ![Buying Tokens](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/buyingtokens.gif)
 
