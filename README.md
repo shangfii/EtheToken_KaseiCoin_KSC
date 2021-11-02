@@ -1,16 +1,16 @@
-# EtheToken_KaseiCoin_KSC
+#  EtheToken_KaseiCoin_KSC
 
 Creation of an Ethereum Token called KaseiCoin and Crowdsale
 
-#Table of Contents
-#Fungible Token Crowdsale
+# Table of Contents
+# Fungible Token Crowdsale
 
-#Technologies
+# Technologies
 
-#Installation Guide
+# Installation Guide
 
-#Evaluation Evidence
+# Evaluation Evidence
 
-#Contributors
+# Contributors
 
-#License
+# License
