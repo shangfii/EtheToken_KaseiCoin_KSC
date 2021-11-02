@@ -62,6 +62,10 @@ successful compilation of the contract
 
 ![KaseiCoinCompilled](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/KasieCoinCompilled.gif)
 
+#### Create the KaseiCoin Crowdsale Contract.
+
+successful compilation of the Crowdsale contract
+
 ![KaseiCoinCrowdsaleCompilled](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleCompilled.gif)
 
 
