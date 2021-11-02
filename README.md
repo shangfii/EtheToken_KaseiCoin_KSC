@@ -41,3 +41,13 @@ MetaMask
 Ganache 
 
 OpenZeppelin 
+
+# Installation Guide
+
+1. Install MetaMask and create an account. 
+
+3. Install Ganache
+ 
+5. Open the REMIX IDE 
+ 
+7. Then when on the REMIX IDE
