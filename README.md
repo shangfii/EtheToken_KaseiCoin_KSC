@@ -77,4 +77,8 @@ successful compilation of all three contracts
 
 ![KaseiCoin Deployed](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/DeployerAdded.gif)
 
+# Deploy the crowdsale to a local blockchain with Remix, MetaMask, and Ganache.
+
+![](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleDepoyments.gif)
+
 
