@@ -81,4 +81,11 @@ successful compilation of all three contracts
 
 ![](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/CrowdSaleDepoyments.gif)
 
+# Buying token
+
+![Buying Tokens](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/buyingtokens.gif)
+
+![TotalRaised](https://github.com/shangfii/EtheToken_KaseiCoin_KSC/blob/main/EvaluationEvidence/TotalRaised.gif)
+
+
 
